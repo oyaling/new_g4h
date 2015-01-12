@@ -478,8 +478,8 @@ padding: .25em 1em;
 }
  
 .post-header-area  ul#nav > li{
-	padding-top: 1em;
-	padding-bottom: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
 } 
   
 .post-header-area ul#nav > li > a{
@@ -577,7 +577,7 @@ ul.header_toolbar li{
 /* 
 001. HEADER 1 ________________________________________________________________ */
 .header-style-1 .logo{
-	max-width: 151px;
+	max-height: 52px;
 	display: inline-block;
 }
 

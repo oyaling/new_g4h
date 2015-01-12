@@ -249,7 +249,7 @@ td.active-time b:first-child,
 .header-area .megamenu_container .megamenu li .dropdown_container,
 .header-area .megamenu_container .megamenu li .dropdown_fullwidth,
 .header-area .megamenu_container .megamenu li .dropdown_flyout li ul{
-	background: #00632c;	
+	background: #00632C;	
 }
 
 
@@ -289,7 +289,7 @@ td.active-time b:first-child,
 .post-header-area .megamenu_container .megamenu li .dropdown_container,
 .post-header-area .megamenu_container .megamenu li .dropdown_fullwidth,
 .post-header-area .megamenu_container .megamenu li .dropdown_flyout li ul{
-	background: #004720;
+	background: #00481E;
 }
 
 
@@ -746,7 +746,7 @@ a.toggle-btn:before,  a.accordion-btn:before{
    ========================================================================== */
    
 .logo.text{
-	line-height: 1;
+	line-height: 1;nav-container
 	font-size: 52px;
 	text-decoration: none;
 }
