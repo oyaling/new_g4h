@@ -342,7 +342,7 @@ a{
 	padding-right: 4px;
 }
 
-.corner, .date{
+.corner, .date, .location{
 	font-size: 11px;
 }
 
@@ -2253,22 +2253,22 @@ ul.pagination .right a, ul.paging .right span{
 	margin-bottom: 3em;
 } 
 
-.paging .col-1-2{
+.paging .bar{
 	padding-top: 1.5em;
 	padding-bottom: 1.5em;
 	margin-top: 5px;
 	margin-bottom: 5px;	
 }
 
-.paging .col-1-2 h4{
+.paging .bar h4{
 	margin: 0;
 }
 
-.paging .col-1-2 a{
+.paging .bar a{
 	text-decoration: none;
 }
 
-.paging .col-1-2.prev{
+.paging .bar.prev{
 	border-right-style: solid;
 	border-right-width: 1px;
 	-webkit-box-sizing: border-box; 
@@ -2279,7 +2279,7 @@ ul.pagination .right a, ul.paging .right span{
 	padding-right: 1em;
 }
 
-.paging .col-1-2.next{
+.paging .bar.next{
 	text-align: right;
 	-webkit-box-sizing: border-box; 
 	-moz-box-sizing: border-box; 
@@ -2289,7 +2289,7 @@ ul.pagination .right a, ul.paging .right span{
 	padding-left: 1em;
 }
 
-.paging .col-1-2.prev:before{
+.paging .bar.prev:before{
 	content: "";
 	position: absolute;
 	left: 0;
@@ -2297,7 +2297,7 @@ ul.pagination .right a, ul.paging .right span{
 	top: 45px;	
 }
 
-.paging .col-1-2.next:after{
+.paging .bar.next:after{
 	content: "";
 	position: absolute;
 	right: 0;

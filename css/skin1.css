@@ -172,7 +172,7 @@ h1, h2, h3, h1 a, h2 a, h3 a, .big-count div{
 
 /* 
 008. TERTIARY BODY TEXT _______________________________________________________ */
-.date, .rating:not(:checked) > label, .toggle-btn span, .rate-box strong, .star-rating > span,
+.date,.location, .rating:not(:checked) > label, .toggle-btn span, .rate-box strong, .star-rating > span,
 .time-table tr td:first-child, .event-table td b:first-child {
 	color: #bdbdbd;
 }
@@ -690,7 +690,7 @@ h1, h2, h3, .sport-rs-heading, cite, .price-cell:first-child p span, .big-count{
 
 /* 
 05. BOLD TEXT _______________________________________________________________ */  
-strong, b, .breadcrumb-wrapper *, #responsive-menu-button, .corner, .date, .read-more, ul.sitemap > li > a,
+strong, b, .breadcrumb-wrapper *, #responsive-menu-button, .corner, .date,.location, .read-more, ul.sitemap > li > a,
 #recaptcha_audio_play_again, #recaptcha_audio_download, a.toggle-btn, a.accordion-btn, .time-table td:before, .time-table tr td:first-child,
 .event-table td:before, .mobile-table td:before{
 	font-family: 'robotomedium';
@@ -751,12 +751,12 @@ a.toggle-btn:before,  a.accordion-btn:before{
 	text-decoration: none;
 }
 
-h6.meta, .meta h6, .corner, .date, .rate-tab i, .comment-num,
+h6.meta, .meta h6, .corner, .date,.location, .rate-tab i, .comment-num,
 .reply {
 	text-transform: uppercase;
 }
 
-h6.meta, .meta h6, .corner, .date, .reply {
+h6.meta, .meta h6, .corner, .date,.location, .reply {
 	letter-spacing: 1px;
 	
 }
