@@ -1545,9 +1545,9 @@ ul.timeline > li:nth-child(odd){
 	padding-right: 5px;
 }
 
-.price-detail li:before{
+/*.price-detail li:before{
 	display: none;
-}
+}*/
 
 .price-detail ul li{
 	border-top-style: solid;
@@ -1792,7 +1792,7 @@ ul.list-2 li:before,
 
 ul.list-3 li:before, 
 .footer-wrapper ul.list-3 li:before{
-	content: "";
+	content: ""!important;
 	padding-right: 5px;
 	font-family: "FontAwesome"!important;
 	font-style: normal;
@@ -3799,5 +3799,28 @@ img.aligncenter {display: block; margin-left: auto; margin-right: auto}
 	max-width: 100%;
 	height: auto;
 }
+
+/* ==========================================================================
+  46. newg4h
+   ========================================================================== */
+
+  h1.membership {
+    margin-top: 100px;
+    margin-bottom: 5px;
+    text-align: center;
+
+  }
+
+  h1.membership-1 {
+    margin-top: 50px;
+    margin-bottom: 5px;
+    text-align: center;
+
+  }
+
+  h5.membership{
+    text-align: center;
+
+  }
 
 
